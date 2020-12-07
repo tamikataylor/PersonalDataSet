@@ -11,3 +11,4 @@ I obtained my data from Space.com where they created a visual of the data from N
 Looking at this diagram, it is easy to tell that the most common type of star in terms of proximity to ours is a red dwarfs, which is the same type of star that we orbit. 
 
 # Analysis 
+![Expansion Rate of Nearby Solar Systems](https://github.com/tamikataylor/PersonalDataSet/blob/master/Expansion%20of%20Nearby%20Solar%20Systems.png)
