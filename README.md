@@ -11,8 +11,8 @@ I obtained my data from Space.com where they created a visual of the data from N
 To begin with, I created the first visualization to show the most common type of magnitude that surrounds us. In this case it is the Red Dwarf which is the same type of star that we orbit. For this visulaization I looked at the brightest star in each solar system because some contained more than one. 
 
 # Analysis 
-![Expansion Rate of Nearby Solar Systems](https://github.com/tamikataylor/PersonalDataSet/blob/master/Expansion%20of%20Nearby%20Solar%20Systems.png)
-![Expansion Rate of Nearby Solar Systems](https://github.com/tamikataylor/PersonalDataSet/blob/master/Exapnsion%202.png)
+![Expansion Rate of Nearby Solar Systems](https://github.com/tamikataylor/PersonalDataSet/blob/master/exp%201.png)
+![Expansion Rate of Nearby Solar Systems](https://github.com/tamikataylor/PersonalDataSet/blob/master/exp%202.png)
 
 The first diagram shows the rate of expansion of each solar system, where the second one look at the rate of expansion over the solar systems distance in terms of light years. The first one can be misleading since we know that expansion happens linearly, at a constant rate, not logrithmic as the first one suggests. 
 
