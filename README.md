@@ -16,5 +16,5 @@ To begin with, I created the first visualization to show the most common type of
 
 The first diagram shows the rate of expansion of each solar system, where the second one look at the rate of expansion over the solar systems distance in terms of light years. The first one can be misleading since we know that expansion happens linearly, at a constant rate, not logrithmic as the first one suggests. 
 
-#Source
+# Source
 https://www.space.com/18964-the-nearest-stars-to-earth-infographic.html
