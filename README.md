@@ -12,3 +12,4 @@ Looking at this diagram, it is easy to tell that the most common type of star in
 
 # Analysis 
 ![Expansion Rate of Nearby Solar Systems](https://github.com/tamikataylor/PersonalDataSet/blob/master/Expansion%20of%20Nearby%20Solar%20Systems.png)
+![Expansion Rate of Nearby Solar Systems]
